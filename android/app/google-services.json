@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "560134752029",
+    "firebase_url": "https://mychatapp-f91e5.firebaseio.com",
+    "project_id": "mychatapp-f91e5",
+    "storage_bucket": "mychatapp-f91e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560134752029:android:821c8149ac7cd0954a03f4",
+        "android_client_info": {
+          "package_name": "com.softrasol.ahmed.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560134752029-5vbjcqfiku9ca2g232utrll6i1d3gp6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHbfdNU5TuVW49ZFeNf7qNjGb_vkRHuMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560134752029-5vbjcqfiku9ca2g232utrll6i1d3gp6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
